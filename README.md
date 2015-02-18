@@ -1,5 +1,12 @@
-StackEdit
+StackEditize
 =========
+
+Its a custom version of the Stackedit.io markdown editor aiming to bring a differnt UI/UX as well as expanding its features.
+
+------
+
+StackEdit
+========
 
 StackEdit is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
