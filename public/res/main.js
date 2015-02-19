@@ -72,6 +72,7 @@ requirejs.config({
 		waitForImages: 'bower-libs/waitForImages/dist/jquery.waitforimages',
 		MathJax: 'bower-libs/MathJax/MathJax',
 		alertify: 'bower-libs/alertify.js/lib/alertify'
+		Localizejs: 'libs/localizejs/index' //Upshot/added/Localizejs library
 	},
 	shim: {
 		underscore: {
